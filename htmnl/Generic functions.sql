@@ -77,12 +77,12 @@ FROM
     employees e; 
     
   SELECT
-    greatest(2, 4, 65, 6)
+    greatest(2, 4, 50, 6)
 FROM
     dual;
 
 SELECT
-    least(1, 3, 43, 34)
+    least(1, 3, 55, 34)
 FROM
     dual;
     
