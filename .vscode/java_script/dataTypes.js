@@ -9,8 +9,8 @@ console.log(int)
 console.log(15)
 
 // String
-let name = "John";
-const city = 'New York';
+let name = "ravi";
+const city = 'texas';
 var country = "USA";
 console.log(name)
 console.log(city)
@@ -44,9 +44,9 @@ console.log(bigNum)
 const uniqueId = Symbol("id");
 ////Non-Primitive Data Types
 // Object
-let person = { name: "Alice", age: 25 };
-const car = { brand: "Tesla", model: "Model S" };
-var employee = { id: 101, role: "Developer" };
+let person = { name: "teja", age: 26 };
+const car = { brand: "BMW", model: "Model S" };
+var employee = { id: 102, role: "Developer" };
 console.log(person)
 console.log(car)
 console.log(employee)
